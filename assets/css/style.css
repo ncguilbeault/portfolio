@@ -85,7 +85,8 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  /*color: #00796b;*/
+  color: #E5FCC2;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
