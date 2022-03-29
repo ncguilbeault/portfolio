@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #2A363B repeat;
+  background: #99B898 repeat;
   position: relative;
 }
 
@@ -411,6 +411,11 @@ h3 {
   letter-spacing: 1px;
   margin-top: 2rem;
   text-transform: uppercase;
+}
+
+#experience.section {
+  background: #FECEAB repeat;
+  position: relative;
 }
 
 #experience .card-action {
