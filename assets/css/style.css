@@ -141,7 +141,7 @@ body {
 } */
 
 a {
-  color: #2A363B;
+  color: #004d40;
 }
 
 /* main blockqoute */
@@ -157,7 +157,8 @@ a {
 
 blockquote {
   border-left: 5px solid #795548;
-  color: #795548;
+  /*color: #795548;*/
+  color: #2a363b;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
