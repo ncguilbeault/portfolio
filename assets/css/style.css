@@ -58,8 +58,8 @@
   color: #0077b5;
 }
 
-.angellist {
-  color: grey;
+.twitter {
+  color: #1DA1F2;
 }
 
 .icon-btn:hover {
@@ -69,6 +69,10 @@
 
 .linkedin:hover {
   background-color: #0077b5;
+}
+
+.twitter:hover {
+  background-color: #1DA1F2;
 }
 
 .angellist:hover {
