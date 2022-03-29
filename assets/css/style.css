@@ -331,7 +331,7 @@ h3 {
 */
 
 #intro.section {
-  background: linear-gradient(90deg, #F7E2E2, #61A4BC, #5B7DB1, #1A132F) repeat;
+  background: linear-gradient(90deg, #F7E2E2, #61A4BC, #5B7DB1, #1A132F);
   background-size: 400% 400%;
   animation: animateBg 15s linear infinite;
   position: relative;
