@@ -58,8 +58,8 @@
   color: #0077b5;
 }
 
-.twitter {
-  color: #00acee;
+.angellist {
+  color: grey;
 }
 
 .icon-btn:hover {
@@ -71,8 +71,8 @@
   background-color: #0077b5;
 }
 
-.twitter:hover {
-  background-color: #00acee;
+.angellist:hover {
+  background-color: grey;
 }
 
 .github:hover {
@@ -85,8 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  /*color: #00796b;*/
-  color: #E5FCC2;
+  color: #00796b;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -157,8 +156,7 @@ a {
 
 blockquote {
   border-left: 5px solid #795548;
-  /*color: #795548;*/
-  color: #2a363b;
+  color: #795548;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -177,7 +175,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: #2a363b;
+  background: white;
   box-shadow: none;
   height: 0;
 }
