@@ -203,12 +203,10 @@ nav i {
   padding-left: 190px;
 } */
 
-/*
 main {
   background: url(../../assets/img/bg.png) repeat;
   padding-left: 190px;
 }
-*/
 
 dl {
   margin-top: 0.5rem;
@@ -340,15 +338,9 @@ h3 {
 }
 
 @keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 
 #intro.section .container {
